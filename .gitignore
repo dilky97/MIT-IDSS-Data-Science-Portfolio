@@ -1,0 +1,9 @@
+#data files
+*.csv
+*.docx
+*.html
+*.xlsx
+
+#env files
+.env
+.conda/
